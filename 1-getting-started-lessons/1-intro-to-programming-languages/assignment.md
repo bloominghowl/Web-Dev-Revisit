@@ -8,5 +8,5 @@ There are many tools that a web developer may need that are on the [MDN document
 
 Exemplary | Adequate | Needs Improvement
 --- | --- | -- |
-|Explained why web developer would use tool| Explain how, but not why developer would use tool| Did not mention how or why a developer would use tool  |
-| test | test | test |
+|Explain why web developer would use tool| Explain how, but not why developer would use tool| Did not mention how or why a developer would use tool  |
+| Linters: For error checking and style guide. eg. [Pylint](https://pylint.readthedocs.io/en/stable/) | How to use: Select a Linter thats appropriate for a programming language, configure the Linter and voila! It's ready to use. Downside, developers might become too reliant on linters and may not develop their debugging and code review skills.  |  |
