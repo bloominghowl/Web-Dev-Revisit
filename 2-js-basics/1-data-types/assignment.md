@@ -15,8 +15,8 @@ Criteria | Exemplary | Adequate | Needs Improvement
 
 Data Type | Documentation | How choice was made | Example |
 --- | ---| --- |
-| String |
-| Number |
+| String | Strings represent text data or sequence of characters that are single or double quoted. |
+| Number | Numbers represent 
 | Boolean |
 | Unidefined |
 | Null |
