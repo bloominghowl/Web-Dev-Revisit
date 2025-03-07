@@ -10,3 +10,6 @@ Criteria | Exemplary | Adequate | Needs Improvement
 --- | --- | --- | -- |
 ||The six data types are listed and explored in detail, documenting their use|Four datatypes are explored|Two data types are explored|
 | | | |
+
+Data Type | Documentation | How choice was made
+--- | ---| --- |
