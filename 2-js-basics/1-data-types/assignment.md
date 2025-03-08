@@ -15,12 +15,7 @@ Criteria | Exemplary | Adequate | Needs Improvement
 
 Data Type | Documentation | How choice was made | Example |
 --- | ---| --- | --- |
-| 1. String | Strings represent text data or sequence of characters that are single or double quoted. | Strings can be used for product names, and user information(e.g name, address). |  
-```javascript
-let ProductName = "Shea butter";
-let productDescription = "Shea butter is a natural fat extracted from the nuts of the African shea tree, known for its moisturizing and healing properties."
-```
-|
+| 1. String | Strings represent text data or sequence of characters that are single or double quoted. | Strings can be used for product names, and user information(e.g name, address). |  ```let ProductName = "Shea butter";``` <br> ```let productDescription = "Shea butter is a natural fat extracted from the nuts of the African shea tree, known for its moisturizing and healing properties.";``` |
 | 2. Number | Numbers represent numerical data. | Numbers can be used for product prices, quantities, and total amount. | ```let productPrice = 9.99;```<br> ```let productQuantity = 4;``` <br> ```let totalPrice = productPrice * productQuantity;``` |
 | 3. Boolean | Booleans represent true or false values. | Booleans can be used to indicate the non or availabilty of products, whether user is logged in or not, or if discount is applicable. | ```let isLoggedIn = false;``` <br> ```let isAvailable = true;``` |
 | 4. Undefined | Undefined represents a declared variable with an unassigned value. | Undefined can be used for optional fields or data that has not been provided yet. | ```let discountCode;``` |
