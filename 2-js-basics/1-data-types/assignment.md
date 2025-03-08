@@ -14,11 +14,10 @@ Criteria | Exemplary | Adequate | Needs Improvement
 ## ASSIGNMENT SOLUTION
 
 Data Type | Documentation | How choice was made | Example |
---- | ---| --- |
-| String | Strings represent text data or sequence of characters that are single or double quoted. |
-| Number | Numbers represent 
-| Boolean |
-| Unidefined |
-| Null |
-| Object |
-| |
+--- | ---| --- | --- |
+| 1. String | Strings represent text data or sequence of characters that are single or double quoted. | Strings can be used for product names, and user information(e.g name, address). |
+| 2. Number | Numbers represent integers or floating point numbers. |
+| 3. Boolean | Booleans represent true or false values. |
+| 4. Undefined | Undefined represents a declared variable with an unassigned value. |
+| 5. Null | Null represents the intentional absence of any object value. |
+| 6. Object | Objects are used to represent collections of data or more complex entities. |
