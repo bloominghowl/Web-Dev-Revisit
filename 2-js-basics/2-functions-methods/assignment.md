@@ -23,7 +23,7 @@ examResult(); // Outputs: Student: name, Grade: Not povided. ()
 examResult("Alice", "A+"); // Outputs: Student: Alice, Grade: A+
 examResult("Bob"); // Outputs: Student: Bob, Grade: Not provided
 ```
-**Explanation:** The *examResult* function has default parameters *students* and *grade*, with the values *name* and *Not provided*, respectively. And as demonstrated on lines 22 to 24, if no arguments are provided, the default value is used.
+**Explanation:** The `examResult` function has default parameters `students` and `grade`, with the values `name` and `Not provided`, respectively. And as demonstrated on lines *22 to 24*, if no arguments are provided, the default value is used.
 
  *The code below returns a value and logs a message to the console*
 ```javascript
@@ -37,9 +37,9 @@ console.log(sum(1, 2)); // Outputs 3
 console.log(sum(1)); // Outputs 1
 console.log(sum()); // Outputs 0
 ```
-**Explanation:** This code defines a function *sum* that calculates the sum of any number of arguments passed to it. 
-1. **Rest Parameters**(...numbers): The *...numbers* syntax collects all arguments passed to the function into an array called *numbers*.
-2. **reduce** Method: This method iterates over the *numbers* array, adding each element(num) to a running total(total), starting from 0.
-3. **Return Value**: The function returns the total sum of all the numbers in the array.
+**Explanation:** This code defines a function `sum` that calculates the sum of any number of arguments passed to it. 
+1. **Rest Parameters**(`...numbers`): The `...numbers` syntax collects all arguments passed to the function into an array called `numbers`.
+2. **`reduce`** Method: This method iterates over the `numbers` array, adding each element(`num`) to a running total(`total`), starting from 0.
+3. **`Return` Value**: The function returns the total sum of all the numbers in the array.
 **Example**:
-i. sum(1, 2, 3, 4, 5) adds 1 + 2 + 3 + 4 + 5 and returns 15.
+i. `sum(1, 2, 3, 4, 5)` adds `1 + 2 + 3 + 4 + 5` and returns `15`.
